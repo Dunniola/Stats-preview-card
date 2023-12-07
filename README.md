@@ -11,7 +11,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  
 
 ## Overview
 
@@ -33,7 +33,7 @@ Mobile design
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola/Stats-preview-card.git)
-- Live Site URL: [Netlify App](https://your-live-site-url.com)
+- Live Site URL: [Netlify App](https://stats-main-preview-card.netlify.app/)
 
 ## My process
 
@@ -47,7 +47,7 @@ Mobile design
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](https://stats-main-preview-card.netlify.app/)
 - Frontend Mentor - [@Eduoladunni](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
